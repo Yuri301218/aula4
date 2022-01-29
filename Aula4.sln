@@ -5,6 +5,10 @@ VisualStudioVersion = 16.0.810.17
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula4", "Aula4\Aula4.csproj", "{E6192829-D5BC-4925-8D4E-9EC2D459C9DB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Heranca", "Heranca\Heranca.csproj", "{7E4F5EEB-C78E-47D3-8AE3-734404F1A513}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Iterfaces", "Iterfaces\Iterfaces.csproj", "{201BF641-8836-49C0-ABE4-F148697A0F79}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|anycpu = Debug|anycpu
@@ -15,6 +19,14 @@ Global
 		{E6192829-D5BC-4925-8D4E-9EC2D459C9DB}.Debug|anycpu.Build.0 = Debug|anycpu
 		{E6192829-D5BC-4925-8D4E-9EC2D459C9DB}.Release|anycpu.ActiveCfg = Release|anycpu
 		{E6192829-D5BC-4925-8D4E-9EC2D459C9DB}.Release|anycpu.Build.0 = Release|anycpu
+		{7E4F5EEB-C78E-47D3-8AE3-734404F1A513}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{7E4F5EEB-C78E-47D3-8AE3-734404F1A513}.Debug|anycpu.Build.0 = Debug|anycpu
+		{7E4F5EEB-C78E-47D3-8AE3-734404F1A513}.Release|anycpu.ActiveCfg = Release|anycpu
+		{7E4F5EEB-C78E-47D3-8AE3-734404F1A513}.Release|anycpu.Build.0 = Release|anycpu
+		{201BF641-8836-49C0-ABE4-F148697A0F79}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{201BF641-8836-49C0-ABE4-F148697A0F79}.Debug|anycpu.Build.0 = Debug|anycpu
+		{201BF641-8836-49C0-ABE4-F148697A0F79}.Release|anycpu.ActiveCfg = Release|anycpu
+		{201BF641-8836-49C0-ABE4-F148697A0F79}.Release|anycpu.Build.0 = Release|anycpu
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Heranca", "Heranca\Heranca.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Iterfaces", "Iterfaces\Iterfaces.csproj", "{201BF641-8836-49C0-ABE4-F148697A0F79}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExercicioPOO", "ExercicioPOO\ExercicioPOO.csproj", "{514AFB70-50AB-4E23-95B2-7D5366A5DA7E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|anycpu = Debug|anycpu
@@ -27,6 +29,10 @@ Global
 		{201BF641-8836-49C0-ABE4-F148697A0F79}.Debug|anycpu.Build.0 = Debug|anycpu
 		{201BF641-8836-49C0-ABE4-F148697A0F79}.Release|anycpu.ActiveCfg = Release|anycpu
 		{201BF641-8836-49C0-ABE4-F148697A0F79}.Release|anycpu.Build.0 = Release|anycpu
+		{514AFB70-50AB-4E23-95B2-7D5366A5DA7E}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{514AFB70-50AB-4E23-95B2-7D5366A5DA7E}.Debug|anycpu.Build.0 = Debug|anycpu
+		{514AFB70-50AB-4E23-95B2-7D5366A5DA7E}.Release|anycpu.ActiveCfg = Release|anycpu
+		{514AFB70-50AB-4E23-95B2-7D5366A5DA7E}.Release|anycpu.Build.0 = Release|anycpu
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
